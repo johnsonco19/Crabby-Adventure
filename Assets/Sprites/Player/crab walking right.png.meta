@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 2974058a48e0d774d9e6d0f73ee62756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4924135942491414281
+    second: crab walking right_0
+  - first:
+      213: 9044457533721589007
+    second: crab walking right_1
+  - first:
+      213: 7368090592938290412
+    second: crab walking right_2
+  - first:
+      213: -4370718731067221872
+    second: crab walking right_3
+  - first:
+      213: -3445260620576027049
+    second: crab walking right_4
+  - first:
+      213: -4125425879752897902
+    second: crab walking right_5
+  - first:
+      213: -9074935326209192095
+    second: crab walking right_6
+  - first:
+      213: -6686520506723347166
+    second: crab walking right_7
+  - first:
+      213: 8885970013397182453
+    second: crab walking right_8
+  - first:
+      213: 9025835477180167541
+    second: crab walking right_9
+  - first:
+      213: 4857592539301131064
+    second: crab walking right_10
+  - first:
+      213: 6422385365682579875
+    second: crab walking right_11
+  - first:
+      213: -5120732160253835795
+    second: crab walking right_12
+  - first:
+      213: -8343234044844027675
+    second: crab walking right_13
+  - first:
+      213: 3626848426852311070
+    second: crab walking right_14
+  - first:
+      213: -118635619861697835
+    second: crab walking right_15
+  - first:
+      213: 2437998316336339801
+    second: crab walking right_16
+  - first:
+      213: 8351580816660543439
+    second: crab walking right_17
+  - first:
+      213: -8696891097004150285
+    second: crab walking right_18
+  - first:
+      213: 1964545999689326055
+    second: crab walking right_19
+  - first:
+      213: 5215745243615053576
+    second: crab walking right_20
+  - first:
+      213: -7084730050353161315
+    second: crab walking right_21
+  - first:
+      213: -8575495938090253121
+    second: crab walking right_22
+  - first:
+      213: 4564705844397029879
+    second: crab walking right_23
+  - first:
+      213: 3495797257523229951
+    second: crab walking right_24
+  - first:
+      213: 6299298304797178607
+    second: crab walking right_25
+  - first:
+      213: -3847921095520664930
+    second: crab walking right_26
+  - first:
+      213: 3823467115503609731
+    second: crab walking right_27
+  - first:
+      213: -3305884794777500263
+    second: crab walking right_28
+  - first:
+      213: -3734856437924360370
+    second: crab walking right_29
+  - first:
+      213: -7296565372707962066
+    second: crab walking right_30
+  - first:
+      213: -5489125961111661604
+    second: crab walking right_31
+  - first:
+      213: 1211037635996489580
+    second: crab walking right_32
+  - first:
+      213: -2555717653477795452
+    second: crab walking right_33
+  - first:
+      213: 7408686438402678257
+    second: crab walking right_34
+  - first:
+      213: 669008262354107647
+    second: crab walking right_35
+  - first:
+      213: 9197664548870219301
+    second: crab walking right_36
+  - first:
+      213: 8121166269855217961
+    second: crab walking right_37
+  - first:
+      213: -1315363854753148769
+    second: crab walking right_38
+  - first:
+      213: -1369715841333046347
+    second: crab walking right_39
+  - first:
+      213: -8805635247114200373
+    second: crab walking right_40
+  - first:
+      213: 8476484325114839634
+    second: crab walking right_41
+  - first:
+      213: -3667741530340106936
+    second: crab walking right_42
+  - first:
+      213: -8564914381936141917
+    second: crab walking right_43
+  - first:
+      213: 9050955879587900464
+    second: crab walking right_44
+  - first:
+      213: 7390130748664724208
+    second: crab walking right_45
+  - first:
+      213: 2178625656140346683
+    second: crab walking right_46
+  - first:
+      213: 4780823976690787954
+    second: crab walking right_47
+  - first:
+      213: 3069580755008143860
+    second: crab walking right_48
+  - first:
+      213: -7521442452270016495
+    second: crab walking right_49
+  - first:
+      213: 3034915547094349067
+    second: crab walking right_50
+  - first:
+      213: -7904753008644941920
+    second: crab walking right_51
+  - first:
+      213: -8377314775362913977
+    second: crab walking right_52
+  - first:
+      213: 5028492577568171471
+    second: crab walking right_53
+  - first:
+      213: -6638627632397387815
+    second: crab walking right_54
+  - first:
+      213: 6999580321432664522
+    second: crab walking right_55
+  - first:
+      213: 1293542642409029553
+    second: crab walking right_56
+  - first:
+      213: -244481073440812611
+    second: crab walking right_57
+  - first:
+      213: 2508325505853053460
+    second: crab walking right_58
+  - first:
+      213: 3042768933574770389
+    second: crab walking right_59
+  - first:
+      213: -7350804620821198663
+    second: crab walking right_60
+  - first:
+      213: -5666829713087059500
+    second: crab walking right_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab walking right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1fedec8b065440800000000000000
+      internalID: 4924135942491414281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b493153e548d70800000000000000
+      internalID: 9044457533721589007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecebf04b57b04660800000000000000
+      internalID: 7368090592938290412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098979d98761853c0800000000000000
+      internalID: -4370718731067221872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8ce728b9ff20d0800000000000000
+      internalID: -3445260620576027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0022150b8fb6c0800000000000000
+      internalID: -4125425879752897902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f48a1e66a5f0280800000000000000
+      internalID: -9074935326209192095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d36d9605b433a0800000000000000
+      internalID: -6686520506723347166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ef45b5ae415b70800000000000000
+      internalID: 8885970013397182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575317aab85324d70800000000000000
+      internalID: 9025835477180167541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b1a88da2a96340800000000000000
+      internalID: 4857592539301131064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96d2c7675e02950800000000000000
+      internalID: 6422385365682579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5c6262b318fe8b0800000000000000
+      internalID: -5120732160253835795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0502f27d0e63c80800000000000000
+      internalID: -8343234044844027675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_14
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1067b8ad67255230800000000000000
+      internalID: 3626848426852311070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6f6448858a5ef0800000000000000
+      internalID: -118635619861697835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b5a383d8285d120800000000000000
+      internalID: 2437998316336339801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b4021186c6e370800000000000000
+      internalID: 8351580816660543439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f17fc810af6e4780800000000000000
+      internalID: -8696891097004150285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed95689d28734b10800000000000000
+      internalID: 1964545999689326055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807cb943aac026840800000000000000
+      internalID: 5215745243615053576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1a234e8bfdad90800000000000000
+      internalID: -7084730050353161315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4435511e7bdf880800000000000000
+      internalID: -8575495938090253121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_23
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93f67d7c7195f30800000000000000
+      internalID: 4564705844397029879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f47d8511938030800000000000000
+      internalID: 3495797257523229951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf7afde6a9b6750800000000000000
+      internalID: 6299298304797178607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9242c99620799ac0800000000000000
+      internalID: -3847921095520664930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387eafd751faf0530800000000000000
+      internalID: 3823467115503609731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9950ce26b432f12d0800000000000000
+      internalID: -3305884794777500263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f007a9bdf1b2cc0800000000000000
+      internalID: -3734856437924360370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23835fc3746dba90800000000000000
+      internalID: -7296565372707962066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd390906505b2d3b0800000000000000
+      internalID: -5489125961111661604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67133740587ec010800000000000000
+      internalID: 1211037635996489580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d24eb554488cd0800000000000000
+      internalID: -2555717653477795452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdde351011f0d660800000000000000
+      internalID: 7408686438402678257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcfa65587bc84900800000000000000
+      internalID: 669008262354107647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ec960d2ba4af70800000000000000
+      internalID: 9197664548870219301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ba94d1bd24b070800000000000000
+      internalID: 8121166269855217961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_38
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90dc0f0b83eebde0800000000000000
+      internalID: -1315363854753148769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35e1a03bacdfce0800000000000000
+      internalID: -1369715841333046347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5912a5691cc580800000000000000
+      internalID: -8805635247114200373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25203a6559582a570800000000000000
+      internalID: 8476484325114839634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d512cb280991dc0800000000000000
+      internalID: -3667741530340106936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9df0d9fbf432980800000000000000
+      internalID: -8564914381936141917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_44
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce1902b647b9d70800000000000000
+      internalID: 9050955879587900464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3ad5e2c40f8660800000000000000
+      internalID: 7390130748664724208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353ccccd780c3e10800000000000000
+      internalID: 2178625656140346683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762350b316e85240800000000000000
+      internalID: 4780823976690787954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c2afee67599a20800000000000000
+      internalID: 3069580755008143860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_49
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11817e1a0f77e9790800000000000000
+      internalID: -7521442452270016495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_50
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057ed34c9f2e1a20800000000000000
+      internalID: 3034915547094349067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79482150dac4290800000000000000
+      internalID: -7904753008644941920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749bcd2c89ccdbb80800000000000000
+      internalID: -8377314775362913977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_53
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a3a17b5bc8c540800000000000000
+      internalID: 5028492577568171471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77cde575bded3a0800000000000000
+      internalID: -6638627632397387815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9fecb8731832160800000000000000
+      internalID: 6999580321432664522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf3c960e2693f110800000000000000
+      internalID: 1293542642409029553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1114f42cd6b9cf0800000000000000
+      internalID: -244481073440812611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_58
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a5c6502cc5fc220800000000000000
+      internalID: 2508325505853053460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_59
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de715b49361a3a20800000000000000
+      internalID: 3042768933574770389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b807a2c422bcf990800000000000000
+      internalID: -7350804620821198663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking right_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d921dc66606b51b0800000000000000
+      internalID: -5666829713087059500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

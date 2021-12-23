@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 8b18e978ab1a9984896b8a85c141ca9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5535152504906893804
+    second: turtle_up_walk_0
+  - first:
+      213: 244590398545551707
+    second: turtle_up_walk_1
+  - first:
+      213: 3833088483373018099
+    second: turtle_up_walk_2
+  - first:
+      213: -8019326080562358831
+    second: turtle_up_walk_3
+  - first:
+      213: 4588038548833572042
+    second: turtle_up_walk_4
+  - first:
+      213: 2247559559328846806
+    second: turtle_up_walk_5
+  - first:
+      213: 2208218756106948207
+    second: turtle_up_walk_6
+  - first:
+      213: -2867368695046446081
+    second: turtle_up_walk_7
+  - first:
+      213: -2306690303216309042
+    second: turtle_up_walk_8
+  - first:
+      213: 9027803084281877726
+    second: turtle_up_walk_9
+  - first:
+      213: -6269421613535741228
+    second: turtle_up_walk_10
+  - first:
+      213: 8283019285631562421
+    second: turtle_up_walk_11
+  - first:
+      213: -388108163373124229
+    second: turtle_up_walk_12
+  - first:
+      213: 3763844796295114779
+    second: turtle_up_walk_13
+  - first:
+      213: -6060219959837173526
+    second: turtle_up_walk_14
+  - first:
+      213: 970686389133608535
+    second: turtle_up_walk_15
+  - first:
+      213: 4522855615508915619
+    second: turtle_up_walk_16
+  - first:
+      213: 5320596641796388554
+    second: turtle_up_walk_17
+  - first:
+      213: 8140762114975155311
+    second: turtle_up_walk_18
+  - first:
+      213: 7077496788296791219
+    second: turtle_up_walk_19
+  - first:
+      213: 798257028357748949
+    second: turtle_up_walk_20
+  - first:
+      213: 1409018844081095747
+    second: turtle_up_walk_21
+  - first:
+      213: 274052347257208746
+    second: turtle_up_walk_22
+  - first:
+      213: -4687958034954394736
+    second: turtle_up_walk_23
+  - first:
+      213: 407291425453191279
+    second: turtle_up_walk_24
+  - first:
+      213: 2699433304335417614
+    second: turtle_up_walk_25
+  - first:
+      213: 313527142604148111
+    second: turtle_up_walk_26
+  - first:
+      213: 1231815487388805370
+    second: turtle_up_walk_27
+  - first:
+      213: 3935254908778058536
+    second: turtle_up_walk_28
+  - first:
+      213: 7346272136386535224
+    second: turtle_up_walk_29
+  - first:
+      213: -6268621752554324881
+    second: turtle_up_walk_30
+  - first:
+      213: -3576791787689067715
+    second: turtle_up_walk_31
+  - first:
+      213: -3161343367733173915
+    second: turtle_up_walk_32
+  - first:
+      213: -346987656094251255
+    second: turtle_up_walk_33
+  - first:
+      213: -7423251867970034093
+    second: turtle_up_walk_34
+  - first:
+      213: -1228510880120687249
+    second: turtle_up_walk_35
+  - first:
+      213: -3417289341597845400
+    second: turtle_up_walk_36
+  - first:
+      213: -8783730030003785900
+    second: turtle_up_walk_37
+  - first:
+      213: 4725469672375578
+    second: turtle_up_walk_38
+  - first:
+      213: -4757271177523739745
+    second: turtle_up_walk_39
+  - first:
+      213: -8850512643018197321
+    second: turtle_up_walk_40
+  - first:
+      213: 7639792658107215921
+    second: turtle_up_walk_41
+  - first:
+      213: -2461178792013190512
+    second: turtle_up_walk_42
+  - first:
+      213: -8650633869243376121
+    second: turtle_up_walk_43
+  - first:
+      213: -4458816702664371914
+    second: turtle_up_walk_44
+  - first:
+      213: -3234946292032786546
+    second: turtle_up_walk_45
+  - first:
+      213: 644298473732690453
+    second: turtle_up_walk_46
+  - first:
+      213: 429406572118300849
+    second: turtle_up_walk_47
+  - first:
+      213: -4949333963971024467
+    second: turtle_up_walk_48
+  - first:
+      213: 466082411345916336
+    second: turtle_up_walk_49
+  - first:
+      213: 6654839286571789884
+    second: turtle_up_walk_50
+  - first:
+      213: -6315565193456040387
+    second: turtle_up_walk_51
+  - first:
+      213: -1513123828120315604
+    second: turtle_up_walk_52
+  - first:
+      213: -1625988407510328329
+    second: turtle_up_walk_53
+  - first:
+      213: 949475937805857946
+    second: turtle_up_walk_54
+  - first:
+      213: 1964888118421876192
+    second: turtle_up_walk_55
+  - first:
+      213: 8435469700069300130
+    second: turtle_up_walk_56
+  - first:
+      213: -4697583234184629369
+    second: turtle_up_walk_57
+  - first:
+      213: -5464820205876762840
+    second: turtle_up_walk_58
+  - first:
+      213: -4334104703055169460
+    second: turtle_up_walk_59
+  - first:
+      213: 1650046800434233677
+    second: turtle_up_walk_60
+  - first:
+      213: -4360748826961387302
+    second: turtle_up_walk_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turtle_up_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416396f8f103f23b0800000000000000
+      internalID: -5535152504906893804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 380
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5167cceba5f46300800000000000000
+      internalID: 244590398545551707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 380
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbe614caadd13530800000000000000
+      internalID: 3833088483373018099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51e0efa61a5b090800000000000000
+      internalID: -8019326080562358831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 361
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4160f60ccfbaf30800000000000000
+      internalID: 4588038548833572042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 361
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35459d28fe03f10800000000000000
+      internalID: 2247559559328846806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0c10524b25ae10800000000000000
+      internalID: 2208218756106948207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 342
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36ea32d5f0538d0800000000000000
+      internalID: -2867368695046446081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 342
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc24fdf36dfcffd0800000000000000
+      internalID: -2306690303216309042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41cc4e213394d70800000000000000
+      internalID: 9027803084281877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 323
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabb02624a8ef8a0800000000000000
+      internalID: -6269421613535741228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 323
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b277cba72233f270800000000000000
+      internalID: 8283019285631562421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7537b38ea92d9af0800000000000000
+      internalID: -388108163373124229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 304
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107fd886ecdb3430800000000000000
+      internalID: 3763844796295114779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 304
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae85c211e06c5eba0800000000000000
+      internalID: -6060219959837173526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568d94c022987d00800000000000000
+      internalID: 970686389133608535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 285
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52acc183964ce30800000000000000
+      internalID: 4522855615508915619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 285
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f86bb47e86d940800000000000000
+      internalID: 5320596641796388554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644d00130cc9f070800000000000000
+      internalID: 8140762114975155311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 266
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f56da4d1583260800000000000000
+      internalID: 7077496788296791219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 266
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f8b6b98af31b00800000000000000
+      internalID: 798257028357748949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34409436c27dd8310800000000000000
+      internalID: 1409018844081095747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 247
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb0286821adc300800000000000000
+      internalID: 274052347257208746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 247
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ea9c410701feb0800000000000000
+      internalID: -4687958034954394736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60333eb46df6a500800000000000000
+      internalID: 407291425453191279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 228
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0185cfb940567520800000000000000
+      internalID: 2699433304335417614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0d5a664fd95400800000000000000
+      internalID: 313527142604148111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af862aac8a9481110800000000000000
+      internalID: 1231815487388805370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 209
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823145a5d75dc9630800000000000000
+      internalID: 3935254908778058536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5ba8f59333f560800000000000000
+      internalID: 7346272136386535224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c76b78ab16109a0800000000000000
+      internalID: -6268621752554324881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 190
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b324bd1deac5ec0800000000000000
+      internalID: -3576791787689067715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 190
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612a31e4f6a024d0800000000000000
+      internalID: -3161343367733173915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078e01b0904f2bf0800000000000000
+      internalID: -346987656094251255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356246391cf4bf890800000000000000
+      internalID: -7423251867970034093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6534bb0dd373fee0800000000000000
+      internalID: -1228510880120687249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f45b03795390d0800000000000000
+      internalID: -3417289341597845400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f61be631ce91680800000000000000
+      internalID: -8783730030003785900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 152
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1508352ac9c01000800000000000000
+      internalID: 4725469672375578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934e73b117cafdb0800000000000000
+      internalID: -4757271177523739745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 133
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6fbc8a4a9ac2580800000000000000
+      internalID: -8850512643018197321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1303e18f1fef50a60800000000000000
+      internalID: 7639792658107215921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a2455bde228ddd0800000000000000
+      internalID: -2461178792013190512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e19c53456c2f780800000000000000
+      internalID: -8650633869243376121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 114
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319c1f25d91f12c0800000000000000
+      internalID: -4458816702664371914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f2be3ac792b13d0800000000000000
+      internalID: -3234946292032786546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d9285c0201f800800000000000000
+      internalID: 644298473732690453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85453900f85f500800000000000000
+      internalID: 429406572118300849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92bb28bfe605bb0800000000000000
+      internalID: -4949333963971024467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 76
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b454db7bd77600800000000000000
+      internalID: 466082411345916336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eec61821dba5c50800000000000000
+      internalID: 6654839286571789884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364b38faea9a58a0800000000000000
+      internalID: -6315565193456040387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2995bb25ed400be0800000000000000
+      internalID: -1513123828120315604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb917188245f69e0800000000000000
+      internalID: -1625988407510328329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f2bbb5573d2d00800000000000000
+      internalID: 949475937805857946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edebe1555fa44b10800000000000000
+      internalID: 1964888118421876192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7933acffec01570800000000000000
+      internalID: 8435469700069300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833897ffe4deceb0800000000000000
+      internalID: -4697583234184629369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a6530afe0924b0800000000000000
+      internalID: -5464820205876762840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48fb035cba2ad3c0800000000000000
+      internalID: -4334104703055169460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4107aa92d426e610800000000000000
+      internalID: 1650046800434233677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_up_walk_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e34ecb028b73c0800000000000000
+      internalID: -4360748826961387302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

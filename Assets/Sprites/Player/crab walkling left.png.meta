@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: a29ff2857f3127748aeace3f5e59b7cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5816372706508393256
+    second: crab walkling left_0
+  - first:
+      213: 3771464277517308910
+    second: crab walkling left_1
+  - first:
+      213: -9216559457454060969
+    second: crab walkling left_2
+  - first:
+      213: 3664295772398981360
+    second: crab walkling left_3
+  - first:
+      213: -2368771306354703708
+    second: crab walkling left_4
+  - first:
+      213: 310634373491038776
+    second: crab walkling left_5
+  - first:
+      213: 8470541986957887080
+    second: crab walkling left_6
+  - first:
+      213: 7552693909366884300
+    second: crab walkling left_7
+  - first:
+      213: -7834482306497613373
+    second: crab walkling left_8
+  - first:
+      213: -3487016840371090554
+    second: crab walkling left_9
+  - first:
+      213: 140650264502634784
+    second: crab walkling left_10
+  - first:
+      213: -3802201495596509334
+    second: crab walkling left_11
+  - first:
+      213: 7061962590890807214
+    second: crab walkling left_12
+  - first:
+      213: -628356953196477418
+    second: crab walkling left_13
+  - first:
+      213: -1773127582012285035
+    second: crab walkling left_14
+  - first:
+      213: 5030867234206725010
+    second: crab walkling left_15
+  - first:
+      213: -3668169003828613898
+    second: crab walkling left_16
+  - first:
+      213: -8054545320340285482
+    second: crab walkling left_17
+  - first:
+      213: -3579644143697303202
+    second: crab walkling left_18
+  - first:
+      213: -5122626585051945058
+    second: crab walkling left_19
+  - first:
+      213: -5470204579905744200
+    second: crab walkling left_20
+  - first:
+      213: 577681119339779389
+    second: crab walkling left_21
+  - first:
+      213: -1690119326775797757
+    second: crab walkling left_22
+  - first:
+      213: -3083319536869880624
+    second: crab walkling left_23
+  - first:
+      213: -9103171629973941793
+    second: crab walkling left_24
+  - first:
+      213: -4881298251967809902
+    second: crab walkling left_25
+  - first:
+      213: -405512293433950106
+    second: crab walkling left_26
+  - first:
+      213: -2696456789739996552
+    second: crab walkling left_27
+  - first:
+      213: -8900528040728273039
+    second: crab walkling left_28
+  - first:
+      213: -1407868262400669147
+    second: crab walkling left_29
+  - first:
+      213: -4317218371715111782
+    second: crab walkling left_30
+  - first:
+      213: 7730694267770382607
+    second: crab walkling left_31
+  - first:
+      213: -4160480704171592660
+    second: crab walkling left_32
+  - first:
+      213: -4550653910081051979
+    second: crab walkling left_33
+  - first:
+      213: 6170937755632201634
+    second: crab walkling left_34
+  - first:
+      213: 6208219362677302799
+    second: crab walkling left_35
+  - first:
+      213: 6775872305207512901
+    second: crab walkling left_36
+  - first:
+      213: 2747006334923999063
+    second: crab walkling left_37
+  - first:
+      213: 2348843164180064278
+    second: crab walkling left_38
+  - first:
+      213: -467975833890287319
+    second: crab walkling left_39
+  - first:
+      213: -4731506486172910638
+    second: crab walkling left_40
+  - first:
+      213: 2982616769848915026
+    second: crab walkling left_41
+  - first:
+      213: -7227175916059863350
+    second: crab walkling left_42
+  - first:
+      213: -2865257160167450798
+    second: crab walkling left_43
+  - first:
+      213: -5432613464067650463
+    second: crab walkling left_44
+  - first:
+      213: -1113173557906902926
+    second: crab walkling left_45
+  - first:
+      213: 8141925722197575227
+    second: crab walkling left_46
+  - first:
+      213: 4546200653671903041
+    second: crab walkling left_47
+  - first:
+      213: 576722645797835713
+    second: crab walkling left_48
+  - first:
+      213: -2067201241424697792
+    second: crab walkling left_49
+  - first:
+      213: -8215614676438916540
+    second: crab walkling left_50
+  - first:
+      213: 2498480068885340150
+    second: crab walkling left_51
+  - first:
+      213: -6669801750378773815
+    second: crab walkling left_52
+  - first:
+      213: -3436397118344579163
+    second: crab walkling left_53
+  - first:
+      213: 2341851897459905892
+    second: crab walkling left_54
+  - first:
+      213: -910012488896270251
+    second: crab walkling left_55
+  - first:
+      213: 4822117769673386107
+    second: crab walkling left_56
+  - first:
+      213: 2349196031965185815
+    second: crab walkling left_57
+  - first:
+      213: 7409213419288714393
+    second: crab walkling left_58
+  - first:
+      213: 6765084108389201046
+    second: crab walkling left_59
+  - first:
+      213: -3003967937740459935
+    second: crab walkling left_60
+  - first:
+      213: 4189944562339533369
+    second: crab walkling left_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab walkling left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5060
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc5bcf828e7b050800000000000000
+      internalID: 5816372706508393256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 5060
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39e7047cee65430800000000000000
+      internalID: 3771464277517308910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 5060
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a0f2f3104381080800000000000000
+      internalID: -9216559457454060969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4807
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09ec937913ad230800000000000000
+      internalID: 3664295772398981360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4807
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a207921c0f602fd0800000000000000
+      internalID: -2368771306354703708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4807
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a95fe11589f4400800000000000000
+      internalID: 310634373491038776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4554
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86608abee096d8570800000000000000
+      internalID: 8470541986957887080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4554
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c11d381f80d860800000000000000
+      internalID: 7552693909366884300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4554
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17022e9d3564390800000000000000
+      internalID: -7834482306497613373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4301
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b40ef98a0ab9fc0800000000000000
+      internalID: -3487016840371090554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4301
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298e3d9ba0b3f100800000000000000
+      internalID: 140650264502634784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_11
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4301
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d28a72eddb3bc0800000000000000
+      internalID: -3802201495596509334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4048
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc42f7f81210260800000000000000
+      internalID: 7061962590890807214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4048
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c3942ea0a747f0800000000000000
+      internalID: -628356953196477418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4048
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd5bccbd59467e0800000000000000
+      internalID: -1773127582012285035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3795
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933b07481b31d540800000000000000
+      internalID: 5030867234206725010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3795
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc62bec9bb081dc0800000000000000
+      internalID: -3668169003828613898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3795
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d715d9b4b1883090800000000000000
+      internalID: -8054545320340285482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3542
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596d98fd9c825ec0800000000000000
+      internalID: -3579644143697303202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3542
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a1010346c8e8b0800000000000000
+      internalID: -5122626585051945058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_20
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3542
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d00ebaede514b0800000000000000
+      internalID: -5470204579905744200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3289
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3592b7dae5540800800000000000000
+      internalID: 577681119339779389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3289
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308918b4d6d7b88e0800000000000000
+      internalID: -1690119326775797757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3289
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc49d3a739d535d0800000000000000
+      internalID: -3083319536869880624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3036
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15df912a90ba180800000000000000
+      internalID: -9103171629973941793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3036
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29639b02a15224cb0800000000000000
+      internalID: -4881298251967809902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_26
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3036
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c0d5b7b45f5af0800000000000000
+      internalID: -405512293433950106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2783
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7b5f06d2449ad0800000000000000
+      internalID: -2696456789739996552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_28
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2783
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdcfa67e8fa7480800000000000000
+      internalID: -8900528040728273039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2783
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52acf09464f367ce0800000000000000
+      internalID: -1407868262400669147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946128b3c82614c0800000000000000
+      internalID: -4317218371715111782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2530
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092a914a71f84b60800000000000000
+      internalID: 7730694267770382607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2530
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243cfcb7d00346c0800000000000000
+      internalID: -4160480704171592660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2277
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b260e11164d8d0c0800000000000000
+      internalID: -4550653910081051979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2277
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe087913393a550800000000000000
+      internalID: 6170937755632201634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_35
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2277
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0625182e96082650800000000000000
+      internalID: 6208219362677302799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0d4326fbb80e50800000000000000
+      internalID: 6775872305207512901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2024
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75784e415b35f1620800000000000000
+      internalID: 2747006334923999063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_38
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2024
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ae02c964c89020800000000000000
+      internalID: 2348843164180064278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1771
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219081657a6189f0800000000000000
+      internalID: -467975833890287319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_40
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1771
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbf43f5bef465eb0800000000000000
+      internalID: -4731506486172910638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_41
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1771
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b7fb4622646920800000000000000
+      internalID: 2982616769848915026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac65ef9abc9e3bb90800000000000000
+      internalID: -7227175916059863350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1518
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257131a2bcf8c38d0800000000000000
+      internalID: -2865257160167450798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_44
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1518
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c4e3076da7b94b0800000000000000
+      internalID: -5432613464067650463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f9930c863d80f0800000000000000
+      internalID: -1113173557906902926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1265
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c33b7e4eedf070800000000000000
+      internalID: 8141925722197575227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_47
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1265
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f23cf5869571f30800000000000000
+      internalID: 4546200653671903041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c314b4d03ee00800800000000000000
+      internalID: 576722645797835713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1012
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04662a56c63df43e0800000000000000
+      internalID: -2067201241424697792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_50
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1012
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426f5fdaf54cfd80800000000000000
+      internalID: -8215614676438916540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffdd4892626ca220800000000000000
+      internalID: 2498480068885340150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 759
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2056a65aa1073a0800000000000000
+      internalID: -6669801750378773815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_53
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 759
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a735e517077f40d0800000000000000
+      internalID: -3436397118344579163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4651ca0a4edef7020800000000000000
+      internalID: 2341851897459905892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 506
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5503b2a767cfe53f0800000000000000
+      internalID: -910012488896270251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_56
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 506
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782b76109a9be240800000000000000
+      internalID: 4822117769673386107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ca0138550a9020800000000000000
+      internalID: 2349196031965185815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 253
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd2c16950d2d660800000000000000
+      internalID: 7409213419288714393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_59
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 253
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694bd24572862ed50800000000000000
+      internalID: 6765084108389201046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160315a8313cf46d0800000000000000
+      internalID: -3003967937740459935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walkling left_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 469
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d3d2516ca52a30800000000000000
+      internalID: 4189944562339533369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

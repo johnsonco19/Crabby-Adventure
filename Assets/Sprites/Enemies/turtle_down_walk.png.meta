@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 776ea2fa5cc374840a53c78321edd230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5365982717598867357
+    second: turtle_down_walk_0
+  - first:
+      213: 173271550923251868
+    second: turtle_down_walk_1
+  - first:
+      213: 3396733042593486981
+    second: turtle_down_walk_2
+  - first:
+      213: -3225840631937182572
+    second: turtle_down_walk_3
+  - first:
+      213: 7865775195674362132
+    second: turtle_down_walk_4
+  - first:
+      213: -2938907004899382868
+    second: turtle_down_walk_5
+  - first:
+      213: 5281886122408477711
+    second: turtle_down_walk_6
+  - first:
+      213: -8807251972986840274
+    second: turtle_down_walk_7
+  - first:
+      213: -1268464233650949786
+    second: turtle_down_walk_8
+  - first:
+      213: 694084883805873946
+    second: turtle_down_walk_9
+  - first:
+      213: 7404432406736408359
+    second: turtle_down_walk_10
+  - first:
+      213: -7157804100115792585
+    second: turtle_down_walk_11
+  - first:
+      213: -7251319272576924929
+    second: turtle_down_walk_12
+  - first:
+      213: -2661549942841042026
+    second: turtle_down_walk_13
+  - first:
+      213: -7306944513517617465
+    second: turtle_down_walk_14
+  - first:
+      213: 8672143840179508628
+    second: turtle_down_walk_15
+  - first:
+      213: -8266288059724860989
+    second: turtle_down_walk_16
+  - first:
+      213: -1229564194573007485
+    second: turtle_down_walk_17
+  - first:
+      213: 1304381691623456787
+    second: turtle_down_walk_18
+  - first:
+      213: -2464200041640819360
+    second: turtle_down_walk_19
+  - first:
+      213: 6065785185256796265
+    second: turtle_down_walk_20
+  - first:
+      213: -3023710945941280362
+    second: turtle_down_walk_21
+  - first:
+      213: -1534907929495173717
+    second: turtle_down_walk_22
+  - first:
+      213: -3123040049868411596
+    second: turtle_down_walk_23
+  - first:
+      213: -7188509331834071582
+    second: turtle_down_walk_24
+  - first:
+      213: 4139714325351078444
+    second: turtle_down_walk_25
+  - first:
+      213: -4906274101165044645
+    second: turtle_down_walk_26
+  - first:
+      213: 3039374234140186506
+    second: turtle_down_walk_27
+  - first:
+      213: 546580126988112668
+    second: turtle_down_walk_28
+  - first:
+      213: 7357810982942562671
+    second: turtle_down_walk_29
+  - first:
+      213: -8348269088809774816
+    second: turtle_down_walk_30
+  - first:
+      213: -1003126111432464925
+    second: turtle_down_walk_31
+  - first:
+      213: -5246546570790097440
+    second: turtle_down_walk_32
+  - first:
+      213: -7873918842101888300
+    second: turtle_down_walk_33
+  - first:
+      213: -8404299086648525597
+    second: turtle_down_walk_34
+  - first:
+      213: -7948243941018495145
+    second: turtle_down_walk_35
+  - first:
+      213: 5704538802991820540
+    second: turtle_down_walk_36
+  - first:
+      213: -2808400277071061341
+    second: turtle_down_walk_37
+  - first:
+      213: -232569713927704132
+    second: turtle_down_walk_38
+  - first:
+      213: 2014166812276949676
+    second: turtle_down_walk_39
+  - first:
+      213: 947094780866878208
+    second: turtle_down_walk_40
+  - first:
+      213: 3896616239400907406
+    second: turtle_down_walk_41
+  - first:
+      213: -4085638487647426097
+    second: turtle_down_walk_42
+  - first:
+      213: 8528670217219322052
+    second: turtle_down_walk_43
+  - first:
+      213: -8931813457133199844
+    second: turtle_down_walk_44
+  - first:
+      213: -7552464200405202289
+    second: turtle_down_walk_45
+  - first:
+      213: -457894091339341502
+    second: turtle_down_walk_46
+  - first:
+      213: 2364177881018571527
+    second: turtle_down_walk_47
+  - first:
+      213: 1884166130247712301
+    second: turtle_down_walk_48
+  - first:
+      213: 1410096182051272838
+    second: turtle_down_walk_49
+  - first:
+      213: -8002201436119719760
+    second: turtle_down_walk_50
+  - first:
+      213: 7855548524441421356
+    second: turtle_down_walk_51
+  - first:
+      213: 147601938391314614
+    second: turtle_down_walk_52
+  - first:
+      213: 3043880078526748972
+    second: turtle_down_walk_53
+  - first:
+      213: -6129550323543881218
+    second: turtle_down_walk_54
+  - first:
+      213: -5298548024345218558
+    second: turtle_down_walk_55
+  - first:
+      213: -43909756526827154
+    second: turtle_down_walk_56
+  - first:
+      213: -3308117812354590315
+    second: turtle_down_walk_57
+  - first:
+      213: -3014605977740416839
+    second: turtle_down_walk_58
+  - first:
+      213: -2103094406599116582
+    second: turtle_down_walk_59
+  - first:
+      213: -5811961849669768516
+    second: turtle_down_walk_60
+  - first:
+      213: 7468303674080810892
+    second: turtle_down_walk_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turtle_down_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f9d59f9dcc77a40800000000000000
+      internalID: 5365982717598867357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 340
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90267abe85976200800000000000000
+      internalID: 173271550923251868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 340
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588dd90a4be932f20800000000000000
+      internalID: 3396733042593486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494dc5759038b33d0800000000000000
+      internalID: -3225840631937182572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 323
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411cf35add8d82d60800000000000000
+      internalID: 7865775195674362132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 323
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a01966a7e637d0800000000000000
+      internalID: -2938907004899382868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04093691770d4940800000000000000
+      internalID: 5281886122408477711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 306
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bd2ce4efa56c580800000000000000
+      internalID: -8807251972986840274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 306
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66172f60082856ee0800000000000000
+      internalID: -1268464233650949786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a73f3682e1a900800000000000000
+      internalID: 694084883805873946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 289
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0ae62b04d1c660800000000000000
+      internalID: 7404432406736408359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 289
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d73c8381f5aac90800000000000000
+      internalID: -7157804100115792585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2cb1d6a832e5b90800000000000000
+      internalID: -7251319272576924929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 272
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9ff0bd66401bd0800000000000000
+      internalID: -2661549942841042026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 272
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cefa46cda4889a90800000000000000
+      internalID: -7306944513517617465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ddfa20e4a95870800000000000000
+      internalID: 8672143840179508628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 255
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1fb0d6ece384d80800000000000000
+      internalID: -8266288059724860989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cfe921e5bfeee0800000000000000
+      internalID: -1229564194573007485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104db4dc381a1210800000000000000
+      internalID: 1304381691623456787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 238
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0650f763e176dcdd0800000000000000
+      internalID: -2464200041640819360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 238
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fe03fc7ffd2450800000000000000
+      internalID: 6065785185256796265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a5bb3aee9906d0800000000000000
+      internalID: -3023710945941280362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58283de59e2bae0800000000000000
+      internalID: -1534907929495173717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d66480f9bb8a4d0800000000000000
+      internalID: -3123040049868411596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5137b59d84d3c90800000000000000
+      internalID: -7188509331834071582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 204
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a952aee38337930800000000000000
+      internalID: 4139714325351078444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 204
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ccb5513b969ebb0800000000000000
+      internalID: -4906274101165044645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87966d33c60e2a20800000000000000
+      internalID: 3039374234140186506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131a66cab7d59700800000000000000
+      internalID: 546580126988112668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 187
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6952ca0b123c1660800000000000000
+      internalID: 7357810982942562671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219e18ae7df42c80800000000000000
+      internalID: -8348269088809774816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 170
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5262fcd1e2412f0800000000000000
+      internalID: -1003126111432464925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 170
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2386f0b58037b0800000000000000
+      internalID: -5246546570790097440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da034ae7883ab290800000000000000
+      internalID: -7873918842101888300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecbc22328eed5b80800000000000000
+      internalID: -8404299086648525597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 153
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757117b4f3a22b190800000000000000
+      internalID: -7948243941018495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe62cf31d79a2f40800000000000000
+      internalID: 5704538802991820540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 136
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae121ad3de8609d0800000000000000
+      internalID: -2808400277071061341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 136
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb133dfc31fb5ccf0800000000000000
+      internalID: -232569713927704132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca206245b02c3fb10800000000000000
+      internalID: 2014166812276949676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b523e6fa1c42d00800000000000000
+      internalID: 947094780866878208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 119
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82728713df831630800000000000000
+      internalID: 3896616239400907406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc96c1f2175ec47c0800000000000000
+      internalID: -4085638487647426097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0bfcf206ceb5670800000000000000
+      internalID: 8528670217219322052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9587cbf2db0480800000000000000
+      internalID: -8931813457133199844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4efb03d1403790800000000000000
+      internalID: -7552464200405202289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 85
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e7fcffbb35a9f0800000000000000
+      internalID: -457894091339341502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 85
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b92ffb14f3fc020800000000000000
+      internalID: 2364177881018571527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebc3bdc17e52a10800000000000000
+      internalID: 1884166130247712301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 68
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fc4ea10ba19310800000000000000
+      internalID: 1410096182051272838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a6faf03872f090800000000000000
+      internalID: -8002201436119719760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26cc2333c3840d60800000000000000
+      internalID: 7855548524441421356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b039f15e236c0200800000000000000
+      internalID: 147601938391314614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299973edc80e3a20800000000000000
+      internalID: 3043880078526748972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9494cd4767feaa0800000000000000
+      internalID: -6129550323543881218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 34
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2023e8f05a6c776b0800000000000000
+      internalID: -5298548024345218558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696b002f40046ff0800000000000000
+      internalID: -43909756526827154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599567770643712d0800000000000000
+      internalID: -3308117812354590315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86307d5d7f926d0800000000000000
+      internalID: -3014605977740416839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87c85a7ce40d2e0800000000000000
+      internalID: -2103094406599116582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaaf46ad73c75fa0800000000000000
+      internalID: -5811961849669768516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtle_down_walk_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d4507f9eb4a760800000000000000
+      internalID: 7468303674080810892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

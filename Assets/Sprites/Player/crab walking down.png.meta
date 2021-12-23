@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 1a03aa0af66ffcb43b3e1fe6c119b2cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3641326480689300953
+    second: crab walking down_0
+  - first:
+      213: 8106212810204146693
+    second: crab walking down_1
+  - first:
+      213: -1641963405398253707
+    second: crab walking down_2
+  - first:
+      213: 2654172364732034449
+    second: crab walking down_3
+  - first:
+      213: -9065171114018405339
+    second: crab walking down_4
+  - first:
+      213: -6441374700512537354
+    second: crab walking down_5
+  - first:
+      213: 4195689210012999700
+    second: crab walking down_6
+  - first:
+      213: 7157593198950616669
+    second: crab walking down_7
+  - first:
+      213: -4933959058712868311
+    second: crab walking down_8
+  - first:
+      213: -5251143002013095673
+    second: crab walking down_9
+  - first:
+      213: 4934352008552459423
+    second: crab walking down_10
+  - first:
+      213: -5043178898475276486
+    second: crab walking down_11
+  - first:
+      213: -1261008267241379994
+    second: crab walking down_12
+  - first:
+      213: -7510105799405028938
+    second: crab walking down_13
+  - first:
+      213: -8106765665451480123
+    second: crab walking down_14
+  - first:
+      213: 2095571094547278543
+    second: crab walking down_15
+  - first:
+      213: 6440597818334503050
+    second: crab walking down_16
+  - first:
+      213: 6132808620150642649
+    second: crab walking down_17
+  - first:
+      213: -1080743787864693074
+    second: crab walking down_18
+  - first:
+      213: 302216186550701777
+    second: crab walking down_19
+  - first:
+      213: -7774588269849238559
+    second: crab walking down_20
+  - first:
+      213: -9191144376938537672
+    second: crab walking down_21
+  - first:
+      213: -5177332952283841621
+    second: crab walking down_22
+  - first:
+      213: 3579275355314030812
+    second: crab walking down_23
+  - first:
+      213: 1036305671368030916
+    second: crab walking down_24
+  - first:
+      213: 4623276830929352183
+    second: crab walking down_25
+  - first:
+      213: -4504875438930632194
+    second: crab walking down_26
+  - first:
+      213: -170328320878787061
+    second: crab walking down_27
+  - first:
+      213: 7198151580277149082
+    second: crab walking down_28
+  - first:
+      213: 5867878389594078912
+    second: crab walking down_29
+  - first:
+      213: 6260239086440820023
+    second: crab walking down_30
+  - first:
+      213: 946416085102588946
+    second: crab walking down_31
+  - first:
+      213: -8961381170745858356
+    second: crab walking down_32
+  - first:
+      213: -6992013837412278047
+    second: crab walking down_33
+  - first:
+      213: -30321272665487246
+    second: crab walking down_34
+  - first:
+      213: 7073725436148428018
+    second: crab walking down_35
+  - first:
+      213: -8713717235145280401
+    second: crab walking down_36
+  - first:
+      213: 4519063835612432071
+    second: crab walking down_37
+  - first:
+      213: -830511074143322311
+    second: crab walking down_38
+  - first:
+      213: 4697345943952834614
+    second: crab walking down_39
+  - first:
+      213: 8734464230199581685
+    second: crab walking down_40
+  - first:
+      213: -5070915251464444901
+    second: crab walking down_41
+  - first:
+      213: 8782003917898216680
+    second: crab walking down_42
+  - first:
+      213: 6177776234633967621
+    second: crab walking down_43
+  - first:
+      213: -8204632974316642732
+    second: crab walking down_44
+  - first:
+      213: -2805066400521659503
+    second: crab walking down_45
+  - first:
+      213: 2564875322805926714
+    second: crab walking down_46
+  - first:
+      213: 2942301589763663290
+    second: crab walking down_47
+  - first:
+      213: 764291467447075871
+    second: crab walking down_48
+  - first:
+      213: -5351114102018696523
+    second: crab walking down_49
+  - first:
+      213: -6687844768598927525
+    second: crab walking down_50
+  - first:
+      213: 2475862438142459
+    second: crab walking down_51
+  - first:
+      213: -917725350830475019
+    second: crab walking down_52
+  - first:
+      213: -3515032749146420687
+    second: crab walking down_53
+  - first:
+      213: 3448708609109299850
+    second: crab walking down_54
+  - first:
+      213: -397558898052849173
+    second: crab walking down_55
+  - first:
+      213: -7968218442436646890
+    second: crab walking down_56
+  - first:
+      213: -1656778806709249715
+    second: crab walking down_57
+  - first:
+      213: 8923732170784841553
+    second: crab walking down_58
+  - first:
+      213: 8902717601331747458
+    second: crab walking down_59
+  - first:
+      213: 8116161571048324864
+    second: crab walking down_60
+  - first:
+      213: 5023252156968254574
+    second: crab walking down_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab walking down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d585b04427988230800000000000000
+      internalID: 3641326480689300953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c60f13a9d0f7070800000000000000
+      internalID: 8106212810204146693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fdb077bf29639e0800000000000000
+      internalID: -1641963405398253707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de28c04b385d420800000000000000
+      internalID: 2654172364732034449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240dc0b6ea023280800000000000000
+      internalID: -9065171114018405339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f413c676d3ab96a0800000000000000
+      internalID: -6441374700512537354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a3c65b151a3a30800000000000000
+      internalID: 4195689210012999700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e04368711e45360800000000000000
+      internalID: 7157593198950616669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4919906e078bb0800000000000000
+      internalID: -4933959058712868311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092b3ce2413027b0800000000000000
+      internalID: -5251143002013095673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c218a22075a7440800000000000000
+      internalID: 4934352008552459423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37a2a10387030ab0800000000000000
+      internalID: -5043178898475276486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672f3c79afff7ee0800000000000000
+      internalID: -1261008267241379994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9bcd0d09eb6c790800000000000000
+      internalID: -7510105799405028938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_14
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6e69249bfe7f80800000000000000
+      internalID: -8106765665451480123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2114cec6f41d10800000000000000
+      internalID: 2095571094547278543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ebfe8799916950800000000000000
+      internalID: 6440597818334503050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7588f62fc1c1550800000000000000
+      internalID: 6132808620150642649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea66d1f304d6001f0800000000000000
+      internalID: -1080743787864693074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4abc3500b13400800000000000000
+      internalID: 302216186550701777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a7bcf82d1b1490800000000000000
+      internalID: -7774588269849238559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ddf3dc2ee727080800000000000000
+      internalID: -9191144376938537672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab723f4c1b6628b0800000000000000
+      internalID: -5177332952283841621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_23
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88dcac8f32ca130800000000000000
+      internalID: 3579275355314030812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca3d9c7482b16e00800000000000000
+      internalID: 1036305671368030916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f576d558cd292040800000000000000
+      internalID: 4623276830929352183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef16829f7a77b71c0800000000000000
+      internalID: -4504875438930632194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c4da6b4fd2adf0800000000000000
+      internalID: -170328320878787061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d06dd89b8f4e360800000000000000
+      internalID: 7198151580277149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce32f45e44ee6150800000000000000
+      internalID: 5867878389594078912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d225ce746d0e650800000000000000
+      internalID: 6260239086440820023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21471424a68522d00800000000000000
+      internalID: 946416085102588946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6a1dcfd47c2a380800000000000000
+      internalID: -8961381170745858356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ec6cc57067fe90800000000000000
+      internalID: -6992013837412278047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c2a196f6449ff0800000000000000
+      internalID: -30321272665487246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca5445ecbea2260800000000000000
+      internalID: 7073725436148428018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6477f58758a21780800000000000000
+      internalID: -8713717235145280401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64efe8d90f6be30800000000000000
+      internalID: 4519063835612432071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_38
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb8ab049e6974f0800000000000000
+      internalID: -830511074143322311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304e689f33503140800000000000000
+      internalID: 4697345943952834614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbd660b0fc073970800000000000000
+      internalID: 8734464230199581685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e956127d70a9b0800000000000000
+      internalID: -5070915251464444901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47966c802ffd970800000000000000
+      internalID: 8782003917898216680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508353f01cedbb550800000000000000
+      internalID: 6177776234633967621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_44
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5665a7c9432e80800000000000000
+      internalID: -8204632974316642732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd58978f66219d0800000000000000
+      internalID: -2805066400521659503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b330d4484489320800000000000000
+      internalID: 2564875322805926714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52ee7f4b725d820800000000000000
+      internalID: 2942301589763663290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148b0e4a0f4b9a00800000000000000
+      internalID: 764291467447075871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_49
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba979c53160db5b0800000000000000
+      internalID: -5351114102018696523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_50
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d4bedd900033a0800000000000000
+      internalID: -6687844768598927525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16325a8cbc80000800000000000000
+      internalID: 2475862438142459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f06ed7a59343f0800000000000000
+      internalID: -917725350830475019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_53
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a434d8658183fc0800000000000000
+      internalID: -3515032749146420687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a829acb35364cdf20800000000000000
+      internalID: 3448708609109299850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a340e9469b7af0800000000000000
+      internalID: -397558898052849173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e8d54b833b6190800000000000000
+      internalID: -7968218442436646890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4913ba0470f109e0800000000000000
+      internalID: -1656778806709249715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_58
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1b5e112777db70800000000000000
+      internalID: 8923732170784841553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_59
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1ff26d7ecc8b70800000000000000
+      internalID: 8902717601331747458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff20692f562a070800000000000000
+      internalID: 8116161571048324864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking down_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cbe41f83d26b540800000000000000
+      internalID: 5023252156968254574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

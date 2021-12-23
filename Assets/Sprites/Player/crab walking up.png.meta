@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: b6a4bd18fb1c89541b3c2560ee943750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3853864416249378513
+    second: crab walking up_0
+  - first:
+      213: 4118977242368915
+    second: crab walking up_1
+  - first:
+      213: -2760399876040548824
+    second: crab walking up_2
+  - first:
+      213: -2209822114340604581
+    second: crab walking up_3
+  - first:
+      213: 7662710118595560556
+    second: crab walking up_4
+  - first:
+      213: 7310417981692262470
+    second: crab walking up_5
+  - first:
+      213: -1166416397003841153
+    second: crab walking up_6
+  - first:
+      213: 119293557279060548
+    second: crab walking up_7
+  - first:
+      213: 5055224038904953248
+    second: crab walking up_8
+  - first:
+      213: -7155199153421227531
+    second: crab walking up_9
+  - first:
+      213: 7078926834895082676
+    second: crab walking up_10
+  - first:
+      213: -7914387402226345939
+    second: crab walking up_11
+  - first:
+      213: -7658272407694420817
+    second: crab walking up_12
+  - first:
+      213: -2158536805953240257
+    second: crab walking up_13
+  - first:
+      213: -407716707111780286
+    second: crab walking up_14
+  - first:
+      213: 2444169065718172410
+    second: crab walking up_15
+  - first:
+      213: 4779565302330359226
+    second: crab walking up_16
+  - first:
+      213: -2155181611738866682
+    second: crab walking up_17
+  - first:
+      213: -2584889272136488864
+    second: crab walking up_18
+  - first:
+      213: -3906548365087020348
+    second: crab walking up_19
+  - first:
+      213: 6901831487506900003
+    second: crab walking up_20
+  - first:
+      213: 4849865862749724093
+    second: crab walking up_21
+  - first:
+      213: 8145889515435770575
+    second: crab walking up_22
+  - first:
+      213: 6906580468302940061
+    second: crab walking up_23
+  - first:
+      213: 6270406103965759666
+    second: crab walking up_24
+  - first:
+      213: -4435054488769800708
+    second: crab walking up_25
+  - first:
+      213: 3654081402369710968
+    second: crab walking up_26
+  - first:
+      213: 7057204354803702036
+    second: crab walking up_27
+  - first:
+      213: -5844588338062027398
+    second: crab walking up_28
+  - first:
+      213: 8299599970575779866
+    second: crab walking up_29
+  - first:
+      213: 6782694945085704726
+    second: crab walking up_30
+  - first:
+      213: 1379363306153734562
+    second: crab walking up_31
+  - first:
+      213: 1233883700447175382
+    second: crab walking up_32
+  - first:
+      213: -6860196409986507399
+    second: crab walking up_33
+  - first:
+      213: 6085887783149321658
+    second: crab walking up_34
+  - first:
+      213: -7958246090024424292
+    second: crab walking up_35
+  - first:
+      213: 6283960738476306036
+    second: crab walking up_36
+  - first:
+      213: 5689947947308496697
+    second: crab walking up_37
+  - first:
+      213: -5807042173412126909
+    second: crab walking up_38
+  - first:
+      213: -6985126990645467495
+    second: crab walking up_39
+  - first:
+      213: -5027828758199723373
+    second: crab walking up_40
+  - first:
+      213: 6326498757543518039
+    second: crab walking up_41
+  - first:
+      213: 6468666188809142518
+    second: crab walking up_42
+  - first:
+      213: 3052015242336670155
+    second: crab walking up_43
+  - first:
+      213: 8910531487366223387
+    second: crab walking up_44
+  - first:
+      213: -5344993101501827064
+    second: crab walking up_45
+  - first:
+      213: 4010775154186379968
+    second: crab walking up_46
+  - first:
+      213: -7108577720307588764
+    second: crab walking up_47
+  - first:
+      213: -1281471530302294544
+    second: crab walking up_48
+  - first:
+      213: 3191837986004282021
+    second: crab walking up_49
+  - first:
+      213: -4244024071864035825
+    second: crab walking up_50
+  - first:
+      213: -6837871332368231640
+    second: crab walking up_51
+  - first:
+      213: 8837818834546385667
+    second: crab walking up_52
+  - first:
+      213: 5861475338100951090
+    second: crab walking up_53
+  - first:
+      213: 3349036279640421242
+    second: crab walking up_54
+  - first:
+      213: 3436982445567038458
+    second: crab walking up_55
+  - first:
+      213: -1556139455218131381
+    second: crab walking up_56
+  - first:
+      213: 7523941963518487943
+    second: crab walking up_57
+  - first:
+      213: -161635779538507124
+    second: crab walking up_58
+  - first:
+      213: -9037498955804796810
+    second: crab walking up_59
+  - first:
+      213: -8703864198709080965
+    second: crab walking up_60
+  - first:
+      213: 1460073470990271627
+    second: crab walking up_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab walking up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2900f86bb2548ac0800000000000000
+      internalID: -3853864416249378513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b8e5f1032ae0000800000000000000
+      internalID: 4118977242368915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4880
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e129e10f611b9d0800000000000000
+      internalID: -2760399876040548824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fce1ce722551e0800000000000000
+      internalID: -2209822114340604581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640eab014a675a60800000000000000
+      internalID: 7662710118595560556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4636
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648356e0c62d37560800000000000000
+      internalID: 7310417981692262470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f712564877e00dfe0800000000000000
+      internalID: -1166416397003841153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4427c99bbd0d7a100800000000000000
+      internalID: 119293557279060548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4392
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f1faca73c72640800000000000000
+      internalID: 5055224038904953248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e623a740a3bc90800000000000000
+      internalID: -7155199153421227531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d6e853766d3260800000000000000
+      internalID: 7078926834895082676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4148
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d87307927a2290800000000000000
+      internalID: -7914387402226345939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d23a02d958b590800000000000000
+      internalID: -7658272407694420817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330d8e16365b02e0800000000000000
+      internalID: -2158536805953240257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_14
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3904
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404c97a0df775af0800000000000000
+      internalID: -407716707111780286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4125c0de6be120800000000000000
+      internalID: 2444169065718172410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfe2ab15d645240800000000000000
+      internalID: 4779565302330359226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3660
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd9d52eb14712e0800000000000000
+      internalID: -2155181611738866682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068269ef6e0a02cd0800000000000000
+      internalID: -2584889272136488864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caea11b5f629c9c0800000000000000
+      internalID: -3906548365087020348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3416
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3246470ab2b38cf50800000000000000
+      internalID: 6901831487506900003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9d757e4f2e4340800000000000000
+      internalID: 4849865862749724093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c0230b530c0170800000000000000
+      internalID: 8145889515435770575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_23
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3172
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9709d1e75a19df50800000000000000
+      internalID: 6906580468302940061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f1582125f40750800000000000000
+      internalID: 6270406103965759666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5df5db0758372c0800000000000000
+      internalID: -4435054488769800708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2928
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b9b90eca7e5b230800000000000000
+      internalID: 3654081402369710968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191a6358f930f160800000000000000
+      internalID: 7057204354803702036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751c6b5fd9d3eea0800000000000000
+      internalID: -5844588338062027398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2684
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180308333a1e2370800000000000000
+      internalID: 8299599970575779866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61acba5cd19f02e50800000000000000
+      internalID: 6782694945085704726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a170876e9b742310800000000000000
+      internalID: 1379363306153734562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2440
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26c4b20b2af1110800000000000000
+      internalID: 1233883700447175382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d185546bfabc0a0800000000000000
+      internalID: -6860196409986507399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd3181c1ba657450800000000000000
+      internalID: 6085887783149321658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2196
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce3f08851ae8190800000000000000
+      internalID: -7958246090024424292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea16f6ffc153750800000000000000
+      internalID: 6283960738476306036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93739cde281c6fe40800000000000000
+      internalID: 5689947947308496697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_38
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1952
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fce0a09ed396fa0800000000000000
+      internalID: -5807042173412126909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9966593c208df0f90800000000000000
+      internalID: -6985126990645467495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a130c0260993ab0800000000000000
+      internalID: -5027828758199723373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1708
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd45bc91d3cc750800000000000000
+      internalID: 6326498757543518039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08c8250a155c950800000000000000
+      internalID: 6468666188809142518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11e8051bfea5a20800000000000000
+      internalID: 3052015242336670155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_44
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1464
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1695608d2198ab70800000000000000
+      internalID: 8910531487366223387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f11ad715c2d5b0800000000000000
+      internalID: -5344993101501827064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ed33b0c229a730800000000000000
+      internalID: 4010775154186379968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1220
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616fcae932495d90800000000000000
+      internalID: -7108577720307588764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53e86ce6c473ee0800000000000000
+      internalID: -1281471530302294544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_49
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa2268bcbfab4c20800000000000000
+      internalID: 3191837986004282021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_50
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 976
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06565aa7923a15c0800000000000000
+      internalID: -4244024071864035825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235d5670400b11a0800000000000000
+      internalID: -6837871332368231640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e46eb76d36aa70800000000000000
+      internalID: 8837818834546385667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_53
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 732
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238483bb3c4285150800000000000000
+      internalID: 5861475338100951090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fcdb90ca2a7e20800000000000000
+      internalID: 3349036279640421242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d647035d92bf20800000000000000
+      internalID: 3436982445567038458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 488
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed0c6096b776ae0800000000000000
+      internalID: -1556139455218131381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dac2e2a596a6860800000000000000
+      internalID: 7523941963518487943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_58
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2d996d11c1cdf0800000000000000
+      internalID: -161635779538507124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_59
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 244
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6789a49159a549280800000000000000
+      internalID: -9037498955804796810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c84b650a9a53780800000000000000
+      internalID: -8703864198709080965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab walking up_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 481
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c8580619334410800000000000000
+      internalID: 1460073470990271627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

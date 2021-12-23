@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: face6df998fbdcf40bf783bddcfab85c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7161783795384435219
+    second: crab idle_0
+  - first:
+      213: -5041388896933898342
+    second: crab idle_1
+  - first:
+      213: 5997309819868412182
+    second: crab idle_2
+  - first:
+      213: 5690597210012658905
+    second: crab idle_3
+  - first:
+      213: -7949725019073923238
+    second: crab idle_4
+  - first:
+      213: -5425428960585919266
+    second: crab idle_5
+  - first:
+      213: -8947579784868952386
+    second: crab idle_6
+  - first:
+      213: -168211299958551906
+    second: crab idle_7
+  - first:
+      213: -7634499172148804472
+    second: crab idle_8
+  - first:
+      213: -933093652291670460
+    second: crab idle_9
+  - first:
+      213: 3333808459189735205
+    second: crab idle_10
+  - first:
+      213: -7724055460420256204
+    second: crab idle_11
+  - first:
+      213: -5133734546325635671
+    second: crab idle_12
+  - first:
+      213: -1576378167025204233
+    second: crab idle_13
+  - first:
+      213: -1906960512032745160
+    second: crab idle_14
+  - first:
+      213: -7770796546739817247
+    second: crab idle_15
+  - first:
+      213: 3570572872208806785
+    second: crab idle_16
+  - first:
+      213: 7703607268171461902
+    second: crab idle_17
+  - first:
+      213: -4546829584803708257
+    second: crab idle_18
+  - first:
+      213: -3089239817162400791
+    second: crab idle_19
+  - first:
+      213: -8445316135063305676
+    second: crab idle_20
+  - first:
+      213: -7201020424735100586
+    second: crab idle_21
+  - first:
+      213: 8478655230346975199
+    second: crab idle_22
+  - first:
+      213: 5980911067862425708
+    second: crab idle_23
+  - first:
+      213: -3699925765034966341
+    second: crab idle_24
+  - first:
+      213: -7588433818318889864
+    second: crab idle_25
+  - first:
+      213: 8570720216597559016
+    second: crab idle_26
+  - first:
+      213: 9022908410635270070
+    second: crab idle_27
+  - first:
+      213: -8472237860370076971
+    second: crab idle_28
+  - first:
+      213: -26357988345983559
+    second: crab idle_29
+  - first:
+      213: -6429588235758427214
+    second: crab idle_30
+  - first:
+      213: 3540022701192440597
+    second: crab idle_31
+  - first:
+      213: 1916722879191899923
+    second: crab idle_32
+  - first:
+      213: -7109084041159532185
+    second: crab idle_33
+  - first:
+      213: 2646972246873593776
+    second: crab idle_34
+  - first:
+      213: -5207604141135794643
+    second: crab idle_35
+  - first:
+      213: 524881814941840606
+    second: crab idle_36
+  - first:
+      213: -5583120068014033418
+    second: crab idle_37
+  - first:
+      213: -4552381314933996728
+    second: crab idle_38
+  - first:
+      213: -2110403273889691624
+    second: crab idle_39
+  - first:
+      213: -6361327234983174180
+    second: crab idle_40
+  - first:
+      213: 2053394397773987983
+    second: crab idle_41
+  - first:
+      213: 5128503221912016722
+    second: crab idle_42
+  - first:
+      213: 4539627870842185493
+    second: crab idle_43
+  - first:
+      213: 5124293163947848507
+    second: crab idle_44
+  - first:
+      213: -7708281355261361130
+    second: crab idle_45
+  - first:
+      213: -3835780941959506457
+    second: crab idle_46
+  - first:
+      213: 7098632475527245687
+    second: crab idle_47
+  - first:
+      213: 6257646532748560639
+    second: crab idle_48
+  - first:
+      213: 5468467150420957022
+    second: crab idle_49
+  - first:
+      213: 5141139855828570300
+    second: crab idle_50
+  - first:
+      213: -721968244911789556
+    second: crab idle_51
+  - first:
+      213: -6332568612309275206
+    second: crab idle_52
+  - first:
+      213: -3935284270278471821
+    second: crab idle_53
+  - first:
+      213: 8333180054621371646
+    second: crab idle_54
+  - first:
+      213: 4761380096428583939
+    second: crab idle_55
+  - first:
+      213: -4222455686412249249
+    second: crab idle_56
+  - first:
+      213: -5790358729440713929
+    second: crab idle_57
+  - first:
+      213: 4537657822211996408
+    second: crab idle_58
+  - first:
+      213: 4206728439721035244
+    second: crab idle_59
+  - first:
+      213: -4552030663421493235
+    second: crab idle_60
+  - first:
+      213: -4541857223314247649
+    second: crab idle_61
+  - first:
+      213: 5792013119033927532
+    second: crab idle_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded36f5359b3c9c90800000000000000
+      internalID: -7161783795384435219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4480
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9718a73283690ab0800000000000000
+      internalID: -5041388896933898342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 4480
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f73d8189ba3350800000000000000
+      internalID: 5997309819868412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4256
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc22ae230019fe40800000000000000
+      internalID: 5690597210012658905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4256
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573010f637eca190800000000000000
+      internalID: -7949725019073923238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 4256
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d8220b1105b4b0800000000000000
+      internalID: -5425428960585919266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68b6b879fc3d380800000000000000
+      internalID: -8947579784868952386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4032
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a83c2c6b46aadf0800000000000000
+      internalID: -168211299958551906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 4032
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848e06c37fcc0690800000000000000
+      internalID: -7634499172148804472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3808
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eabf8544cfc03f0800000000000000
+      internalID: -933093652291670460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3808
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f423f5121144e20800000000000000
+      internalID: 3333808459189735205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_11
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 3808
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43efb388b74aec490800000000000000
+      internalID: -7724055460420256204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adfb1b31af41c8b0800000000000000
+      internalID: -5133734546325635671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3584
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f308cab8649f1ae0800000000000000
+      internalID: -1576378167025204233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 3584
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839579f848d1985e0800000000000000
+      internalID: -1906960512032745160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4bdb156b5982490800000000000000
+      internalID: -7770796546739817247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3360
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f6ac0c193d8130800000000000000
+      internalID: 3570572872208806785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 3360
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053a74bef5b8ea60800000000000000
+      internalID: 7703607268171461902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c98f259a66e0c0800000000000000
+      internalID: -4546829584803708257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3136
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebda08f0c0d025d0800000000000000
+      internalID: -3089239817162400791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 3136
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324da968b53cca80800000000000000
+      internalID: -8445316135063305676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f45b8316d01c90800000000000000
+      internalID: -7201020424735100586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_22
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2912
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7d6d9920c3aa570800000000000000
+      internalID: 8478655230346975199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2912
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6064219de6700350800000000000000
+      internalID: 5980911067862425708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb286c7ae1937acc0800000000000000
+      internalID: -3699925765034966341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2688
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9a81c5a770b690800000000000000
+      internalID: -7588433818318889864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_26
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2688
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67e8b90a051f670800000000000000
+      internalID: 8570720216597559016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2464
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7bcc0e46fc73d70800000000000000
+      internalID: 9022908410635270070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2464
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa608cd809c6a80800000000000000
+      internalID: -8472237860370076971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_29
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2464
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc4ab9c8b52aff0800000000000000
+      internalID: -26357988345983559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a693a09385c6a0800000000000000
+      internalID: -6429588235758427214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2240
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be46114efa02130800000000000000
+      internalID: 3540022701192440597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_32
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2240
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd81bad41999a10800000000000000
+      internalID: 1916722879191899923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a948eab5775d90800000000000000
+      internalID: -7109084041159532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2016
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d739fb3febb420800000000000000
+      internalID: 2646972246873593776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_35
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2016
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e6fbcef9fdab7b0800000000000000
+      internalID: -5207604141135794643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bba0da31c84700800000000000000
+      internalID: 524881814941840606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_37
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1792
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53ba7f0e5c482b0800000000000000
+      internalID: -5583120068014033418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_38
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1792
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843cb394051b2d0c0800000000000000
+      internalID: -4552381314933996728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818cbfe576756b2e0800000000000000
+      internalID: -2110403273889691624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1568
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5fc2659608b7a0800000000000000
+      internalID: -6361327234983174180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_41
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1568
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80881f435f1f7c10800000000000000
+      internalID: 2053394397773987983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571383228a1c2740800000000000000
+      internalID: 5128503221912016722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_43
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1344
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e20e1f7ffffe30800000000000000
+      internalID: 4539627870842185493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_44
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1344
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33f212ab752d1740800000000000000
+      internalID: 5124293163947848507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61441e692fea60590800000000000000
+      internalID: -7708281355261361130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1120
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e55a4e5e8194cac0800000000000000
+      internalID: -3835780941959506457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_47
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1120
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6ad650a8638260800000000000000
+      internalID: 7098632475527245687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8ce6afd50a7d650800000000000000
+      internalID: 6257646532748560639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_49
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 896
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57dbbe66e5e3eb40800000000000000
+      internalID: 5468467150420957022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_50
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 896
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d34fb57ff85740800000000000000
+      internalID: 5141139855828570300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aabe6d4bd0bf5f0800000000000000
+      internalID: -721968244911789556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 672
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd648306623e18a0800000000000000
+      internalID: -6332568612309275206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_53
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 672
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8ed36ecf0369c0800000000000000
+      internalID: -3935284270278471821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcb31dcb1765a370800000000000000
+      internalID: 8333180054621371646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 448
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cad3888f1d31240800000000000000
+      internalID: 4761380096428583939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_56
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 448
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d19bbce2d665c0800000000000000
+      internalID: -4222455686412249249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733aa990a6384afa0800000000000000
+      internalID: -5790358729440713929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_58
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 224
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf73d6fbff8fe30800000000000000
+      internalID: 4537657822211996408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_59
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 224
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50b1c4a3d416a30800000000000000
+      internalID: 4206728439721035244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008314ba30f3d0c0800000000000000
+      internalID: -4552030663421493235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10ffcf4be418f0c0800000000000000
+      internalID: -4541857223314247649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab idle_62
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 427
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676b6e8e3d516050800000000000000
+      internalID: 5792013119033927532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
